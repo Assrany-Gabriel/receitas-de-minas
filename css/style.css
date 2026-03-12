@@ -15,4 +15,9 @@ header{
     background-color: rgb(87, 58, 21);
     color: beige;
     border-radius: 75px;
+    backdrop-filter: 40px;
 }
+.b1{
+    height:50px
+    
+    }
