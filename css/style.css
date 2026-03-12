@@ -18,7 +18,10 @@ header{
 }
 .b1{
     display: flex;
-    flex-direction: column-reverse;
-    align-items: center;
-    left: 1000px;
+    left: 750px; margin-bottom: 10px; 
+    height: 75px;
+    width: 100px;
+}
+.anot{
+    border: 1px dashed #ccc; padding: 10px;
 }
