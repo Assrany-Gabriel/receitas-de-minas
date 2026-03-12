@@ -1,0 +1,18 @@
+
+.pq{
+    text-align: center;
+    padding: 50px;
+    border-radius: 100px;
+    height: 400px;
+    width: 600px;
+
+}
+body {
+    text-align: center;
+    background-color: burlywood;
+}
+header{
+    background-color: rgb(87, 58, 21);
+    color: beige;
+    border-radius: 75px;
+}
