@@ -18,10 +18,18 @@ header{
 }
 .b1{
     display: flex;
-    left: 750px; margin-bottom: 10px; 
-    height: 75px;
-    width: 100px;
+   
 }
 .anot{
-    border: 1px dashed #ccc; padding: 10px;
+    border: 1px dashed #3f2d0b; padding: 10px;
+    border-radius: 20px
+}
+.b1{
+    position: absolute;
+    right:5px;
+    width:100px;
+    font-family: 'Courier New', Courier, monospace;
+    color: beige;
+    background-color: #3f2d0b;
+    border-radius: 20px;
 }
